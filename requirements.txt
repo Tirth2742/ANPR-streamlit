@@ -31,7 +31,7 @@ opt-einsum==3.3.0
 optree==0.12.1
 packaging==24.1
 promise==2.3
-protobuf==4.25.4
+
 psutil==6.0.0
 pyarrow==17.0.0
 Pygments==2.18.0
@@ -60,3 +60,4 @@ zipp==3.20.1
 opencv-python
 easyocr
 
+protobuf==3.20.0
